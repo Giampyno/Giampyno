@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+***If the Universe Is the Answer, What Is the Question?***
+- 🔭 I’m currently working on boring things
+- 🌱 I’m currently learning how the Higgs particle works
+  
 <!--
 **Giampyno/Giampyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
